@@ -60,7 +60,12 @@
     "dependencies": {
       "minUI5Version": "1.115.1",
       "libs": {
-        "sap.fe.templates": {}
+        "sap.fe.templates": {},
+        "sap.m": {},
+        "sap.fe.core": {},
+        "sap.ui.mdc": {},
+        "sap.fe.navigation": {},
+        "sap.ui.core": {}
       }
     },
     "models": {
